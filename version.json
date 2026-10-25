@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn-test/releases/download/v0.7-test/FlasHVpnTest.apk",
-  "notes": "Feed အသက်ဝင်ပြီ — OTA စမ်းဖို့ target"
+  "versionCode": 8,
+  "versionName": "0.8-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn-test/releases/download/v0.8-test/FlasHVpnTest.apk",
+  "notes": "အကုန်စမ်း — Hysteria1 (sing-box, UDP only) + SSR subset (Java tunnel: origin + plain/http_simple + 5 method) ချိတ်လို့ရ · SlowDNS import သာ (transport မရသေး) · Psiphon/ZIVPN UDP က named gap (client မရှိ, အတုမလုပ်) · Main App မထိ"
 }
