@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn-test/releases/download/v0.8-test/FlasHVpnTest.apk",
-  "notes": "အကုန်စမ်း — Hysteria1 (sing-box, UDP only) + SSR subset (Java tunnel: origin + plain/http_simple + 5 method) ချိတ်လို့ရ · SlowDNS import သာ (transport မရသေး) · Psiphon/ZIVPN UDP က named gap (client မရှိ, အတုမလုပ်) · Main App မထိ"
+  "versionCode": 9,
+  "versionName": "0.9-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn-test/releases/download/v0.9-test/FlasHVpnTest.apk",
+  "notes": "SlowDNS တကယ်ချိတ်ပြီ — DNSTT tunnel (nameserver + tunnel domain + server Noise public key) · SOCKS-forward နဲ့ SSH-forward နှစ်မျိုးလုံး အလိုလို စမ်းပြီး ရွေး · Public key မပါရင် အကြောင်းပြချက် အတိအကျ ပြ · Main App မထိ"
 }
